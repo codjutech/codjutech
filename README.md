@@ -437,15 +437,12 @@ https://www.instagram.com/codjutech/
 
 https://www.youtube.com/@codjutech
 
-### Facebook
-
-https://www.facebook.com/codjutech
 
 ### Contact
 
 📞 +91 82888 63132
 
-📧 hello@codju.com
+📧 info@codju.com
 
 🌍 www.codju.com
 
